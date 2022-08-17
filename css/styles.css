@@ -1,0 +1,118 @@
+
+		 
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+              /* Шапка */
+
+.logo {
+	color: #000000;
+}
+
+.web {
+	color: #2196F3;
+}
+
+ .logo:hover,
+ .logo:focus,
+  .heder-link:hover {
+	color:#2196F3;
+}
+
+.menu-nav {
+	background: #FFFFFF;
+}
+
+
+.heder-link {
+	font-weight: 500;
+	color: #212121;
+}
+
+.authorizetion-nav {
+}
+
+                   /* Hero */
+.main {
+	background: #F5F5F5;
+}
+
+.hero {
+	background: #2F303A;
+}
+
+.hero-title {
+	font-weight: 900;
+		color: #FFFFFF;
+}
+
+.hero-button {
+	background-color: #2196F3;
+	color: #FFFFFF;
+}
+
+              /*features  */
+.features {
+
+}
+
+.features-title {
+	display: none;
+}
+
+.features-list{}
+
+.features-subtitle {
+	font-weight: 700;
+		color: #212121;
+}
+
+.features-text {
+	font-weight: 400;
+		color: #757575;
+}
+
+                  /*work*/
+
+.work-title {
+	font-weight: 700;
+		font-size: 36px;
+		line-height: 42px;
+		color: #212121;
+}
+
+                  /* team */
+.team {
+	background:
+}
+
+.team-title {
+	font-weight: 700;
+		font-size: 36px;
+		line-height: 42px;
+		letter-spacing: 0.03em;
+		color: #212121;
+}
+.team-subtitle {
+	font-weight: 500;
+		font-size: 16px;
+		line-height: 19px;
+		text-align: center;
+		letter-spacing: 0.03em;
+		color: #212121;
+}
+
+.text-subtitle {
+	font-weight: 400;
+		font-size: 16px;
+		line-height: 19px;
+		text-align: center;
+		letter-spacing: 0.03em;
+		color: #757575;
+}
