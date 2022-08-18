@@ -3,6 +3,8 @@
 	--accent-color: #2196F3;
 	--primary-text-color: #757575;
 	--primary-white-color: #FFFFFF;
+	          /* portfolio */
+	--primary-bg-color:#F5F5F5;
 }
 body {
 	background: var(--primary-white-color)
@@ -203,4 +205,8 @@ font-family: 'Roboto';
 
 
            /* Home work 2 */
+
+.portfolio {
+	color: var(--primary-bg-color)
+}
 
