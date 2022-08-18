@@ -73,23 +73,37 @@ a {
 .features-list{}
 
 .features-subtitle {
+font-family: 'Roboto';
+	font-style: normal;
 	font-weight: 700;
-		color: #212121;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #212121;
 }
 
 .features-text {
+font-family: 'Roboto';
+	font-style: normal;
 	font-weight: 400;
-		color: #757575;
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: 0.03em;
+	color: #757575;
 }
 
                   /*work*/
 
 .work-title {
+font-family: 'Roboto';
+	font-style: normal;
 	font-weight: 700;
-		font-size: 36px;
-		line-height: 42px;
-		text-align: center;
-		letter-spacing: 0.03em;
+	font-size: 36px;
+	line-height: 42px;
+	text-align: center;
+	letter-spacing: 0.03em;
+	color: #212121;
 }
 
                   /* team */
@@ -105,11 +119,15 @@ a {
 }
 
 .team-title {
+font-family: 'Roboto';
+	font-style: normal;
 	font-weight: 700;
-		font-size: 36px;
-		line-height: 42px;
-		letter-spacing: 0.03em;
-		color: #212121;
+	font-size: 36px;
+	line-height: 42px;
+	text-align: center;
+	letter-spacing: 0.03em;
+
+	color: #212121;
 }
 .team-subtitle {
 	font-weight: 500;
