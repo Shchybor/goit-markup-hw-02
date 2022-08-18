@@ -71,7 +71,6 @@ a {
 .hero-button {
 	background-color: var(--accent-color);
 	color: var(--primary-white-color)
-	cursor: pointer;
 }
 
               /*features  */
@@ -209,4 +208,13 @@ font-family: 'Roboto';
 .portfolio {
 	color: var(--primary-bg-color)
 }
+
+.portfolio-title {
+	display: none;
+}
+
+.portfolio-list {
+
+}
+
 
