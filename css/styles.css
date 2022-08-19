@@ -228,12 +228,15 @@ font-family: 'Roboto';
 	background: var(--accent-color)
 }
 
-.button:hover {
+.button:hover,
+.button:focus {
 	color: var(--primary-white-color)
 }
 
 .button {
 	font-family: inherit;
+	background: #F5F4FA;
+	border: none
 	
 }
 .button {
