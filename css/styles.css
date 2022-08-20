@@ -7,6 +7,7 @@
 	--primary-bg-color: #F5F5F5;
 	--bg-buttom-team: #F5F4FA;
 	--link-color-foot: rgba(255, 255, 255, 0.6);
+    --logo-color-prim: #000000;
 }
 body {
 	background: var(--primary-white-color)
@@ -23,7 +24,7 @@ a {
               /* Шапка */
 
 .logo {
-	color: #000000;
+	color: var(--logo-color-prim)
 }
 
 .web {
@@ -171,7 +172,7 @@ font-family: 'Roboto';
 
                       /*footer  */
 .footer {
-	background: #2F303A;
+	background: var(--bg-hero-footer)
 }
 
 .footer-logo {
@@ -247,7 +248,7 @@ font-family: 'Roboto';
 
 .button {
 	border: none
-	
+
 }
 
 .button {
