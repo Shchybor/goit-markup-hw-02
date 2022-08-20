@@ -10,8 +10,8 @@
     --logo-color-prim: #000000;
 }
 body {
-	font-family: 
-	background: var(--primary-white-color)
+	 font-family: 'roboto';
+	 color: var(--titel-text-color)
 }		 
 
 ul {
@@ -97,8 +97,6 @@ a {
 .features-list{}
 
 .features-subtitle {
-font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 700;
 	font-size: 14px;
 	line-height: 16px;
@@ -108,8 +106,6 @@ font-family: 'Roboto';
 }
 
 .features-text {
-font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
@@ -120,8 +116,6 @@ font-family: 'Roboto';
                   /*work*/
 
 .work-title {
-font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 42px;
@@ -143,8 +137,6 @@ font-family: 'Roboto';
 }
 
 .team-title {
-font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 42px;
@@ -192,8 +184,6 @@ font-family: 'Roboto';
 }
 
  .footer-link {
-	font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
@@ -206,8 +196,6 @@ font-family: 'Roboto';
 	color: var(--accent-color)
 }
 .foot-link {
-font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
@@ -222,10 +210,10 @@ font-family: 'Roboto';
 
 
 
-           /* Home work 2 */
+           /* portfolio */
 
 .portfolio {
-	color: var(--primary-bg-color)
+	background: var(--primary-bg-color)
 }
 
  .portfolio-title {
@@ -254,8 +242,6 @@ font-family: 'Roboto';
 }
 
 .button {
-font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 26px;
@@ -273,8 +259,6 @@ font-family: 'Roboto';
 }
 
 .portfolio-subtitle {
-	font-family: 'Roboto';
-		font-style: normal;
 		font-weight: 700;
 		font-size: 18px;
 		line-height: 36px;
@@ -283,8 +267,6 @@ font-family: 'Roboto';
 }
 
 .portfolio-text {
-	font-family: 'Roboto';
-		font-style: normal;
 		font-weight: 400;
 		font-size: 16px;
 		line-height: 30px;
