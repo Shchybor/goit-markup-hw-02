@@ -214,7 +214,8 @@ font-family: 'Roboto';
 	color: var(--link-color-foot)
 }
 
-.foot-link:hover {
+.foot-link:hover,
+.foot-link:focus {
 	color: var(--accent-color)
 }
 
