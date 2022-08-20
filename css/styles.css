@@ -3,8 +3,10 @@
 	--accent-color: #2196F3;
 	--primary-text-color: #757575;
 	--primary-white-color: #FFFFFF;
-	          /* portfolio */
+	--bg-hero-footer: #2F303A;
 	--primary-bg-color: #F5F5F5;
+	--bg-buttom-team: #F5F4FA;
+	--link-color-foot: rgba(255, 255, 255, 0.6);
 }
 body {
 	background: var(--primary-white-color)
@@ -60,11 +62,11 @@ a {
 
                    /* Hero */
 .main {
-	background: #F5F5F5;
+	background: var(--primary-bg-color)
 }
 
 .hero {
-	background: #2F303A;
+	background: var(--bg-hero-footer)
 }
 
 .hero-title {
@@ -128,7 +130,7 @@ font-family: 'Roboto';
 
                   /* team */
 .team {
-	background: #F5F4FA;
+	background: var(--bg-buttom-team)
 	}
 
 .team-list {
@@ -208,7 +210,7 @@ font-family: 'Roboto';
 	font-size: 14px;
 	line-height: 24px;
 	letter-spacing: 0.03em;
-	color: rgba(255, 255, 255, 0.6);
+	color: var(--link-color-foot)
 }
 
 .foot-link:hover {
@@ -239,7 +241,7 @@ font-family: 'Roboto';
 
 .button {
 	font-family: inherit;
-	background: #F5F4FA;
+	background: var(--bg-buttom-team)
 	border: none
 	
 }
