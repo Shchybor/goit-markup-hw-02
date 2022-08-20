@@ -242,9 +242,14 @@ font-family: 'Roboto';
 .button {
 	font-family: inherit;
 	background: var(--bg-buttom-team)
+	
+}
+
+.button {
 	border: none
 	
 }
+
 .button {
 font-family: 'Roboto';
 	font-style: normal;
