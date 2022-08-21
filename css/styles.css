@@ -33,13 +33,13 @@ a {
               /* Шапка */
 
 .logo {
-	font-family: 'Raleway';
+	    font-family: 'Raleway';
 		font-style: normal;
 		font-weight: 700;
 		font-size: 26px;
 		line-height: 1.19;
 		letter-spacing: 0.03em;
-	color: var(--logo-color-prim)
+	    color: var(--logo-color-prim)
 }
 
 .web {
@@ -74,7 +74,7 @@ a {
 }
 
 .heder-link {
-	font-family: 'Roboto';
+	    font-family: 'Roboto';
 		font-style: normal;
 		font-weight: 500;
 		font-size: 14px;
@@ -86,7 +86,7 @@ a {
 
 
 .hed-link {
-	font-family: 'Roboto';
+	    font-family: 'Roboto';
 		font-style: normal;
 		font-weight: 500;
 		font-size: 14px;
@@ -108,7 +108,7 @@ a {
 }
 
 .hero-title {
-		font-family: 'Roboto';
+		    font-family: 'Roboto';
 			font-style: normal;
 			font-weight: 900;
 			font-size: 44px;
@@ -156,12 +156,12 @@ a {
 }
 
 .features-text {
-	font-family: 'Roboto';
+	    font-family: 'Roboto';
 		font-style: normal;
 		font-size: 14px;
 		line-height: 1.71;
 		letter-spacing: 0.03em;
-	color: var(--primary-text-color)
+	    color: var(--primary-text-color)
 }
 
                   /*work*/
@@ -180,8 +180,7 @@ a {
 	background: var(--bg-buttom-team)
 	}
 
-.team-list {
-}
+.team-list {}
 
 .team-img {
 	background: var(--primary-white-color)
@@ -193,11 +192,11 @@ a {
 	line-height: 1.16;
 	text-align: center;
 	letter-spacing: 0.03em;
-
 	color: var(--titel-text-color)
 }
+
 .team-subtitle {
-	font-weight: 500;
+	    font-weight: 500;
 		font-size: 16px;
 		line-height: 1.18;
 		text-align: center;
@@ -219,13 +218,13 @@ a {
 }
 
 .footer-logo {
-	font-family: 'Raleway';
+	    font-family: 'Raleway';
 		font-style: normal;
 		font-weight: 700;
 		font-size: 26px;
 		line-height: 1.19;
 		letter-spacing: 0.03em;
-	color: var(--primary-white-color)
+	    color: var(--primary-white-color)
 }
 
 .footer-logo:hover,
@@ -236,31 +235,33 @@ a {
 .footer-web {
 	color: var(--accent-color)
 }
+
 .footer-nav {
 }
 
  .footer-link {
-	font-family: 'Roboto';
+	    font-family: 'Roboto';
 		font-style: normal;
 		font-weight: 400;
 		font-size: 14px;
 		line-height: 1.71;
 		letter-spacing: 0.03em;
-	color: var(--primary-white-color)
+	    color: var(--primary-white-color)
 }
  
 .footer-link:hover,
 .footer-link:focus{
 	color: var(--accent-color)
 }
+
 .foot-link {
-	font-family: 'Roboto';
+	    font-family: 'Roboto';
 		font-style: normal;
 		font-weight: 400;
 		font-size: 14px;
 		line-height: 1.71;
 		letter-spacing: 0.03em;
-	color: var(--link-color-foot)
+	    color: var(--link-color-foot)
 }
 
 .foot-link:hover,
@@ -295,7 +296,8 @@ a {
 	border: none
 }
 
-.button {font-family: 'Roboto';
+.button {
+	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 500;
 	font-size: 16px;
