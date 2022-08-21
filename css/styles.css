@@ -37,7 +37,7 @@ a {
 		font-style: normal;
 		font-weight: 700;
 		font-size: 26px;
-		line-height: 1,19;
+		line-height: 1.19;
 		letter-spacing: 0.03em;
 	color: var(--logo-color-prim)
 }
@@ -149,7 +149,7 @@ a {
 
 .features-subtitle {
 	font-weight: 700;
-	line-height: 1,14;
+	line-height: 1.14;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: var(--titel-text-color)
@@ -157,7 +157,7 @@ a {
 
 .features-text {
 	font-weight: 400;
-	line-height: 1,71;
+	line-height: 1.71;
 	letter-spacing: 0.03em;
 	color: var(--primary-text-color)
 }
@@ -167,7 +167,7 @@ a {
 .work-title {
 	font-weight: 700;
 	font-size: 36px;
-	line-height: 1,16;
+	line-height: 1.16;
 	text-align: center;
 	letter-spacing: 0.03em;
 	color: var(--titel-text-color)
@@ -188,7 +188,7 @@ a {
 .team-title {
 	font-weight: 700;
 	font-size: 36px;
-	line-height: 1,16;
+	line-height: 1.16;
 	text-align: center;
 	letter-spacing: 0.03em;
 
@@ -197,7 +197,7 @@ a {
 .team-subtitle {
 	font-weight: 500;
 		font-size: 16px;
-		line-height: 1,18;
+		line-height: 1.18;
 		text-align: center;
 		letter-spacing: 0.03em;
 		color: var(--titel-text-color)
@@ -205,7 +205,7 @@ a {
 
 .team-text {
 		font-size: 16px;
-		line-height: 1,18;
+		line-height: 1.18;
 		text-align: center;
 		letter-spacing: 0.03em;
 		color: var(--primary-text-color)
@@ -221,7 +221,7 @@ a {
 		font-style: normal;
 		font-weight: 700;
 		font-size: 26px;
-		line-height: 1,19;
+		line-height: 1.19;
 		letter-spacing: 0.03em;
 	color: var(--primary-white-color)
 }
@@ -238,8 +238,12 @@ a {
 }
 
  .footer-link {
-	line-height: 1,71;
-	letter-spacing: 0.03em;
+	font-family: 'Roboto';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 1.71;
+		letter-spacing: 0.03em;
 	color: var(--primary-white-color)
 }
  
@@ -248,8 +252,12 @@ a {
 	color: var(--accent-color)
 }
 .foot-link {
-	line-height: 1,71;
-	letter-spacing: 0.03em;
+	font-family: 'Roboto';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 1.71;
+		letter-spacing: 0.03em;
 	color: var(--link-color-foot)
 }
 
@@ -282,22 +290,16 @@ a {
 
 .button {
 	font-family: inherit;
-	background: var(--bg-buttom-team)
-	
-}
-
-.button {
 	border: none
-
 }
 
 .button {
-	font-weight: 500;
-	font-size: 16px;
-	line-height: 1,
-		625;
-	text-align: center;
-	letter-spacing: 0.03em;
+	width: 103px;
+	height: 38px;
+	left: 840px;
+	top: 167px;
+	border-radius: 4px;
+	background: var(--bg-buttom-team)
 }
 
 .portfolio-list {
@@ -319,7 +321,7 @@ a {
 
 .portfolio-text {
 		font-size: 16px;
-		line-height: 1,87;
+		line-height: 1.87;
 		letter-spacing: 0.03em;
 		color: var(--primary-text-color)
 }
